@@ -1,0 +1,39 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h1{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 5px solid white;
+}
+#mario{
+    width:100%;
+}
+.copyCredit{
+    float: bottom;
+     line-height: 2;
+     margin:0;
+    background-color:chartreuse ;
+}
+.modal-dialog{
+    width: 90%;
+    box-shadow: 2px 2px 60px lightgrey;
+}
+.instructionImage{
+    width: 45%;
+    display: inline-block;
+}
+
+video{
+border: 5px white solid;
+background:url('game_console.png');
+border-radius: 20px;
+background-size: cover;
+background-position: center;
+padding: 25px;
+margin:0px;
+}
